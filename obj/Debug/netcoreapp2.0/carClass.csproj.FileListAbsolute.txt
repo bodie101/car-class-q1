@@ -1,0 +1,10 @@
+/Users/bodiekeys/Desktop/carClass/bin/Debug/netcoreapp2.0/carClass.deps.json
+/Users/bodiekeys/Desktop/carClass/bin/Debug/netcoreapp2.0/carClass.runtimeconfig.json
+/Users/bodiekeys/Desktop/carClass/bin/Debug/netcoreapp2.0/carClass.runtimeconfig.dev.json
+/Users/bodiekeys/Desktop/carClass/bin/Debug/netcoreapp2.0/carClass.dll
+/Users/bodiekeys/Desktop/carClass/bin/Debug/netcoreapp2.0/carClass.pdb
+/Users/bodiekeys/Desktop/carClass/obj/Debug/netcoreapp2.0/carClass.csproj.CoreCompileInputs.cache
+/Users/bodiekeys/Desktop/carClass/obj/Debug/netcoreapp2.0/carClass.AssemblyInfoInputs.cache
+/Users/bodiekeys/Desktop/carClass/obj/Debug/netcoreapp2.0/carClass.AssemblyInfo.cs
+/Users/bodiekeys/Desktop/carClass/obj/Debug/netcoreapp2.0/carClass.dll
+/Users/bodiekeys/Desktop/carClass/obj/Debug/netcoreapp2.0/carClass.pdb
